@@ -1,0 +1,51 @@
+/* Global Styles */
+body {
+    font-family: 'Chakra Petch', sans-serif;
+    background-color: #FFF;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #0091D5; /* Azul do Rio */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Chamada de Texto */
+.chamada-texto {
+    text-align: center;
+    margin-top: 30px;
+    color: #F1C40F; /* Amarelo vibrante */
+}
+
+.chamada-texto h1 {
+    font-size: 3em;
+    color: #F39C12; /* Dourado */
+    margin-bottom: 10px;
+}
+
+.chamada-texto p {
+    font-size: 1.5em;
+    color: #2980B9; /* Azul claro */
+}
+
+/* YouTube Video Styles */
+section {
+    padding: 30px 20px;
+    text-align: center;
+}
+
+iframe {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+}
